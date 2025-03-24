@@ -2,10 +2,11 @@
     <div class="mx-auto max-w-screen-xl">
         <div class="md:flex md:justify-between">
             <div class="mb-14 mr-20 md:mb-0 text-gray-600">
-                <a class="flex items-center mb-8">
-                    <x-application-logo />
-                    <span class="self-center text-2xl font-bold whitespace-nowrap text-black uppercase">alfabank</span>
-                </a>
+                <div class="flex items-center mb-8">
+                    <x-application-logo class="h-10"/>
+                    <span
+                        class="self-center text-2xl ml-4 font-bold whitespace-nowrap text-black uppercase">alfabank</span>
+                </div>
             </div>
             <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
                 <div>

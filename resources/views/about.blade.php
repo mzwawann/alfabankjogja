@@ -9,35 +9,35 @@
             pengetahuan Anda. Pilih dari kursus unggulan kami berikut:</p>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-8">
-            <a href="/perkantoran"
+            <a href="#"
                 class="block bg-white p-6 rounded-lg shadow-lg hover:bg-gray-50 transition duration-300 ease-in-out">
                 <img src="https://alfabankjogja.com/wp-content/uploads/2024/02/Kursus-Administrasi-Perkantoran-2024.jpg"
                     alt="" class="mb-4">
                 <h3 class="text-2xl font-semibold text-gray-900">Administrasi perkantoran</h3>
                 {{-- <p class="text-gray-700 mt-2">Kursus Administrasi Perkantoran adalah kelas yang mempelajari tentang administrasi perusahaan, pengelolaan surat menyurat, hingga pengelolaan keuangan. </p> --}}
             </a>
-            <a href="/design"
+            <a href="#"
                 class="block bg-white p-6 rounded-lg shadow-lg hover:bg-gray-50 transition duration-300 ease-in-out">
                 <img src="https://alfabankjogja.com/wp-content/uploads/2024/02/Kursus-Desain-Grafis-Merchandise.jpg"
                     alt="" class="mb-4">
                 <h3 class="text-2xl font-semibold text-gray-900">Desain grafis merchandise</h3>
                 {{-- <p class="text-gray-700 mt-2">Ikuti pelatihan desain grafis di Alfabank Jogja. Desain grafis mempunyai peranan yang cukup besar bagi kebutuhan industri saat ini. Peralihan menjadi digital merupakan salah satu penyebabnya. Seolah-olah desain grafis merupakan skil yang paling dibutuhkan saat ini</p> --}}
             </a>
-            <a href="/microsoft"
+            <a href="#"
                 class="block bg-white p-6 rounded-lg shadow-lg hover:bg-gray-50 transition duration-300 ease-in-out">
                 <img src="https://alfabankjogja.com/wp-content/uploads/2023/10/Kursus-Microsoft-Office-1024x1024.jpg"
                     alt="" class="mb-4">
                 <h3 class="text-2xl font-semibold text-gray-900">Microsoft Office</h3>
                 {{-- <p class="text-gray-700 mt-2">Kuasi Word, Excel, PowerPoint, dan lainnya dengan mudah.</p> --}}
             </a>
-            <a href="/bangunanbertingkat"
+            <a href="#"
                 class="block bg-white p-6 rounded-lg shadow-lg hover:bg-gray-50 transition duration-300 ease-in-out">
                 <img src="https://alfabankjogja.com/wp-content/uploads/2024/02/Kursus-Perancangan-Struktur-Bangunan-Bertingkat.jpg"
                     alt="" class="mb-4">
                 <h3 class="text-2xl font-semibold text-gray-900">Perancangan struktur bangunan bertingkat</h3>
                 {{-- <p class="text-gray-700 mt-2">alam era digital seperti sekarang, perhitungan analisa struktur semakin mudah dengan pemanfaatan program SAP2000. Sebagai salah satu program rekayasa mekanika yang paling populer dan banyak digunakan di seluruh dunia, SAP2000, yang dikembangkan oleh Berkeley University melalui produk CSI, memberikan kemudahan dalam perencanaan dan analisis struktur gedung atau bangunan. Untuk menguasai program ini, Anda dapat mengikuti kursus SAP2000 Bersertifikat yang diselenggarakan oleh Alfabank Jogja. </p> --}}
             </a>
-            <a href="/pendaftaran"
+            <a href="#"
                 class="block bg-white p-6 rounded-lg shadow-lg hover:bg-gray-50 transition duration-300 ease-in-out">
                 <img src="https://alfabankjogja.com/wp-content/uploads/2024/02/Kursus-Teknik-Gambar-Desain-Bangunan.jpg"
                     alt="" class="mb-4">

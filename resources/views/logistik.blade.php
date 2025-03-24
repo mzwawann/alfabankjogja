@@ -1,3 +1,3 @@
 <x-layout>
-    <x-slot:title>{{ $title }}</x-slot>
+    <x-slot:title> Logistik </x-slot>
 </x-layout>

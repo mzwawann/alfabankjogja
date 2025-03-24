@@ -43,5 +43,12 @@ class DatabaseSeeder extends Seeder
             Category::all(),
             User::all()
         ])->create();
+
+        $this->call([
+            MarketingSeeder::class,
+            OmsetSeeder::class,
+            InformanSeeder::class,
+            KelasBerjalanSeeder::class,
+        ]);
     }
 }

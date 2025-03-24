@@ -32,6 +32,18 @@
             <x-input-error :messages="$errors->get('email')" class="mt-2" />
         </div>
 
+        {{-- Role --}}
+        <div class="mt-4">
+            <label for="role" class="block text-gray-700 font-medium mb-2 capitalize">role</label>
+            <select name="role" id="role" class="border border-gray-300 rounded-lg p-2 capitalize"
+                required>
+                <option value="marketing">marketing</option>
+                <option value="akademik">akademik</option>
+                <option value="keuangan">keuangan</option>
+                <option value="logistik">logistik</option>
+            </select>
+        </div>
+
         <!-- Password -->
         <div class="mt-4">
             <x-input-label for="password" :value="__('Password')" />

@@ -58,6 +58,6 @@ export default {
         'bg-green-100',
         'bg-blue-100',
         'bg-yellow-100',
-        'bg-cyan-100'
+        'bg-cyan-100',
     ],
 }
